@@ -1,4 +1,3 @@
-package Private;
 import java.io.*;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
